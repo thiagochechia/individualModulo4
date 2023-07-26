@@ -16,5 +16,5 @@ Gerar um relatório de progresso diário para mostrar o quão produtivo esta�
 Este Projeto foi desenvolvido no Google Colab 
 
 # Instrucoes de uso :
-Basta copiar o arquivo : (individualModulo4update.ipynb)
+Basta copiar o arquivo : (individualModulo4final.ipynb)
 localizado neste repositório e executá-lo no Google Colab
