@@ -18,5 +18,5 @@ Gerar um relatório de progresso diário para mostrar o quão produtivo esta�
 ### Este Projeto foi desenvolvido em python no Jupyter Notebook do Google Colab com as bibliotecas Pandas e Numpy
 
 # Instrucoes de uso :
-Basta copiar o arquivo : (individualModulo4FINAL.ipynb)
+Basta copiar o arquivo : (projetoIndividualModulo4FINAL.ipynb)
 localizado neste repositório , colar no Google Colab e executar
