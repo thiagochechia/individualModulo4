@@ -1,4 +1,5 @@
 # Projeto M4 - Relatórios de Progresso:
+[📊 Analytics](#-analytics-)
 
 - Evidencia de entrega:
 
@@ -37,10 +38,17 @@ projetoIndividualModulo4.ipynb
 - Thiago Bernardes Chechia <a href="https://www.linkedin.com/in/thiagochechia/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  thiagochechia@gmail.com
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-#### Este Projeto foi desenvolvido no Jupyter Notebook do Google Colab .
+	
+
+#### Este Projeto foi desenvolvido no Jupyter Notebook .
