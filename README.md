@@ -1,6 +1,7 @@
 # Projeto M4 - Relatórios de Progresso:
 
 - Evidencia de entrega:
+
 Uma empresa de desenvolvimento de softwares possui uma tabela de dados e me solicitou a construcao de um RELATÓRIO . 
 Este relatório tem o objetivo de demonstrar a importância da análise dos dados de um projeto de desenvolvimento de software ao longo de uma semana. 
 Os dados fornecidos permitirão ao proprietário da equipe de desenvolvimento obter insights sobre o progresso do projeto, identificar possíveis áreas de melhoria e 
