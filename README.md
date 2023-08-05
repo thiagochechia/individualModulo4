@@ -32,7 +32,7 @@ projetoIndividualModulo4.ipynb
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Thiago Bernardes Chechia (Pessoa Colaboradora 1) <a href="https://www.linkedin.com/in/thiagochechia/">
+- Thiago Bernardes Chechia <a href="https://www.linkedin.com/in/thiagochechia/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
