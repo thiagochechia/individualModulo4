@@ -31,4 +31,4 @@ projetoIndividualModulo4.ipynb
 [localizado neste repositório , colar no Google Colab e executar cada comando em sequencialmente de cima para baixo].
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### Este Projeto foi desenvolvido em Python no Jupyter Notebook do Google Colab com as bibliotecas Pandas e Numpy
+#### Este Projeto foi desenvolvido em Python no Jupyter Notebook do Google Colab com as bibliotecas Pandas, Numpy e MatplotLib
