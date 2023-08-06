@@ -1,13 +1,15 @@
 # Projeto M4 - Relatórios de Progresso:
 [📊 Analytics](#-analytics-)
 
-- Evidencia de entrega:
+--- Evidencia de entrega:---
 
 Uma empresa de desenvolvimento de softwares possui uma tabela de dados e me solicitou a construcao de um RELATÓRIO . 
 Este relatório tem o objetivo de demonstrar a importância da análise dos dados de um projeto de desenvolvimento de software ao longo de uma semana. 
 Os dados fornecidos permitirão ao proprietário da equipe de desenvolvimento obter insights sobre o progresso do projeto, identificar possíveis áreas de melhoria e 
 tomar decisões informadas para garantir o sucesso do projeto.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <img url="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](http://expertdigital.net/wp-content/uploads/2022/02/30-melhores-ferramentas-de-produtividade-para-aumentar-o-desempenho-de-seus-funcionarios-1024x576.jpg)" />
 
 ## Objetivo/os:
@@ -40,7 +42,8 @@ projetoIndividualModulo4.ipynb
 - Thiago Bernardes Chechia <a href="https://www.linkedin.com/in/thiagochechia/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+- Thiago Bernardes Chechia <a href="https://www.gmail.com/thiagochechia">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   thiagochechia@gmail.com
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
