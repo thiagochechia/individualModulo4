@@ -42,7 +42,7 @@ projetoIndividualModulo4.ipynb
 - Thiago Bernardes Chechia <a href="https://www.linkedin.com/in/thiagochechia/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- Thiago Bernardes Chechia <a href="https://www.gmail.com/thiagochechia">
+- Thiago Bernardes Chechia <a href="https://www.gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   thiagochechia@gmail.com
 
