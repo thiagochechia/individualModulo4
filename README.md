@@ -8,6 +8,8 @@ Este relatório tem o objetivo de demonstrar a importância da análise dos dado
 Os dados fornecidos permitirão ao proprietário da equipe de desenvolvimento obter insights sobre o progresso do projeto, identificar possíveis áreas de melhoria e 
 tomar decisões informadas para garantir o sucesso do projeto.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img url="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](http://expertdigital.net/wp-content/uploads/2022/02/30-melhores-ferramentas-de-produtividade-para-aumentar-o-desempenho-de-seus-funcionarios-1024x576.jpg)" />
+
 ## Objetivo/os:
 Gerar um relatório de progresso diário para mostrar o quão produtivo está sendo o trabalho dos funcionários e incluir no relatório outros itens como:
 
